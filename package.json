@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/demarche12/curso_tdd_clean_architecture/issues"
   },
-  "homepage": "https://github.com/demarche12/curso_tdd_clean_architecture#readme"
+  "homepage": "https://github.com/demarche12/curso_tdd_clean_architecture#readme",
+  "devDependencies": {
+    "standard": "^16.0.4"
+  }
 }
