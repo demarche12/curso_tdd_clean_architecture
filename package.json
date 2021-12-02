@@ -31,6 +31,7 @@
   "homepage": "https://github.com/demarche12/curso_tdd_clean_architecture#readme",
   "devDependencies": {
     "husky": "^7.0.4",
+    "jest": "^27.4.3",
     "lint-staged": "^12.1.2",
     "standard": "^16.0.4"
   }
